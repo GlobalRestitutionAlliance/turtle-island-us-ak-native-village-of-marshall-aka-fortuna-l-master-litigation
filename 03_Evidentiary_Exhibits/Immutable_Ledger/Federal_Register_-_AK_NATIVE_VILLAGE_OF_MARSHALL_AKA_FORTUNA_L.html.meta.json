@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+MARSHALL+AKA+FORTUNA+L",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+MARSHALL+AKA+FORTUNA+L",
+  "title": "Federal Register - AK NATIVE VILLAGE OF MARSHALL AKA FORTUNA L",
+  "fetched_at": "2026-11-23T17:19:20.816604Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 191632,
+  "sha256": "51ec8bfd28b3b97287bad309170c5b42ccd6c8cf8719e555e002cd7dd69e3b55",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
